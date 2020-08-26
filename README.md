@@ -14,11 +14,11 @@ Machine learning is the study of algorithms that teach computers to learn from e
 
 #### The process:
 
-- Step 1: Feed training data
-- Step 2: Analyse data
-- Step 3: Find patterns
-- Step 4: Perform predictions and make a decision
-- Step 5: Learn from experience
+- Step 1: Feed training data.
+- Step 2: Analyse data.
+- Step 3: Find patterns.
+- Step 4: Perform predictions and make a decision.
+- Step 5: Learn from experience.
 
 #### The big picture
 
@@ -34,21 +34,21 @@ Machine learning is the study of algorithms that teach computers to learn from e
 #### Methods
 
 - Classification: Discrete outputs (0,1)
-  - Logistic Regression
-  - Support Vector Machine
-  - Naive Bayes
-  - K Nearest Neighbours
-  - Decision Tree
-  - Random Forest
+  - Logistic Regression.
+  - Support Vector Machine.
+  - Naive Bayes.
+  - K Nearest Neighbours.
+  - Decision Tree.
+  - Random Forest.
     
-- Regression: Predicting continuous values such as the expected salary, temperature or cost
-  - Simple Linear Regression
-  - Multiple Linear Regression
-  - Polynomial Linear Regression
-  - Support Vector Machine
-  - Decision Tree Regression
-  - Random Forest Regression
+- Regression: Predicting continuous values such as the expected salary, temperature or cost.
+  - Simple Linear Regression.
+  - Multiple Linear Regression.
+  - Polynomial Linear Regression.
+  - Support Vector Machine.
+  - Decision Tree Regression.
+  - Random Forest Regression.
   
-- Clustering: Finding patterns in data such as customer segmentation
-  - K-Means Clustering
-  - Hierarchical Clustering
+- Clustering: Finding patterns in data such as customer segmentation.
+  - K-Means Clustering.
+  - Hierarchical Clustering.
