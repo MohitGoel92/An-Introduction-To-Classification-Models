@@ -33,7 +33,7 @@ Machine learning is the study of algorithms that teach computers to learn from e
     
 #### Methods
 
-- Classification: Discrete outputs (0,1)
+- Classification: Discrete outputs (0,1).
   - Logistic Regression.
   - Support Vector Machine.
   - Naive Bayes.
