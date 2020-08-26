@@ -2,6 +2,10 @@
 
 This repository contains an introductory course on classification models. This repository contains basic datasets to illustrate the core concepts we will be exploring, however, you are encouraged to practice on datasets of your interest in order to find interesting insights.
 
+We will be using Juypter notebook that comes with the Anaconda Navigator GUI. This can be downloaded by using the following link:
+
+https://docs.anaconda.com/anaconda/navigator/
+
 ## Introduction
 
 Artifical Intelligence and Machine Learning is applied everywhere, for instance the Google search engine, Netflix or Amazon recommender systems, Facebook facial recognition, and Alexa/Siri (speech to text via natural language processing).
