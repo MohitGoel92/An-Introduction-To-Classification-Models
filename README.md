@@ -24,7 +24,7 @@ Machine learning is the study of algorithms that teach computers to learn from e
 
 - **Artificial Intelligence:** The science that enables computers to mimic human intelligence. Subfields inlcude machine learning, robotics and computer vision.
   - **Machine Learning:** The subset of AI that enables machines to improve at tasks with experience.
-    - **Supervised Learning:** Training algorithms using labelled input and output data. The performance is assessed by comparing the trained model prediction Vs the real output.
+    - **Supervised Learning:** Training algorithms that use labelled input and output data. The performance is assessed by comparing the trained model prediction Vs the real output.
       - Regression and classification.
     - **Unsupervised Learning:** Training algorithms with no labelled data. It attempts at discovering hidden patterns on its own. These learning methods can analyse complex data that humans may find difficult to interpret. However, there is no feedback.
       - Clustering
