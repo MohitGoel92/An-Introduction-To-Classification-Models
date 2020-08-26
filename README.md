@@ -16,3 +16,35 @@ Machine learning is the study of algorithms that teach computers to learn from e
 - Step 4: Perform predictions and make a decision
 - Step 5: Learn from experience
 
+#### The big picture
+
+- Artificial Intelligence: The science that enables computers to mimic human intelligence. Subfields inlcude machine learning, robotics and computer vision.
+  - Machine Learning: The subset of AI that enables machines to improve at tasks with experience.
+    - Supervised Learning: Training algorithms using labelled input and output data. The performance is assessed by comparing the trained model prediction Vs the real output.
+      - Regression and classification.
+    - Unsupervised Learning: Training algorithms with no labelled data. It attempts at discovering hidden patterns on its own. These learning methods can analyse complex data that humans may find difficult to interpret. However, there is no feedback.
+      - Clustering
+    - Reinforcement Learning: Algorithms take actions to maximise the cumulative reward. Reinforcement algorithms learn by trial and error, through reward and penalty. There are two elements, they are the "environment" and "learning agent". Based on the reward or penalty, the agent improves its environment knowledge to make better decisions.
+    - Deep Learning: A subset of machine learning that utilises multi-layer Artificial Neural Networks. Deep Neural Networks are inspired by the human brain and mimics the operation of biological neurons.
+    
+#### Methods
+
+- Classification: Discrete outputs (0,1)
+  - Logistic Regression
+  - Support Vector Machine
+  - Naive Bayes
+  - K Nearest Neighbours
+  - Decision Tree
+  - Random Forest
+    
+- Regression: Predicting continuous values such as the expected salary, temperature or cost
+  - Simple Linear Regression
+  - Multiple Linear Regression
+  - Polynomial Linear Regression
+  - Support Vector Machine
+  - Decision Tree Regression
+  - Random Forest Regression
+  
+- Clustering: Finding patterns in data such as customer segmentation
+  - K-Means Clustering
+  - Hierarchical Clustering
