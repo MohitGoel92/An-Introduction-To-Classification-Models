@@ -1,6 +1,6 @@
 # Classification Bootcamp
 
-This repository contains an introductory course on classification models. This repository contains basic datasets to illustrate the core concepts we will be exploring, however, you are encouraged to practice on datasets of your interest in order to find interesting insights.
+This repository contains an introductory course on classification models. This repository contains basic datasets to illustrate the core concepts we will be exploring, however, you are encouraged to practice on datasets of your interest in order to find meaningful insights.
 
 We will be using Juypter notebook that comes with the Anaconda Navigator GUI. This can be downloaded by using the following link:
 
