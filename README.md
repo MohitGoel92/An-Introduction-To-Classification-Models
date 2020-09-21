@@ -44,15 +44,30 @@ Machine learning is the study of algorithms that teach computers to learn from e
   - K Nearest Neighbours.
   - Decision Tree.
   - Random Forest.
+  
+  Please see the below for learning purposes:
+  
+  https://github.com/MohitGoel92/Predicting-Customer-Purchases
     
 - Regression: Predicting continuous values such as the expected salary, temperature or cost.
   - Simple Linear Regression.
+    - https://github.com/MohitGoel92/Experience-Salary-Prediction
   - Multiple Linear Regression.
+    - https://github.com/MohitGoel92/Venture-Capital-Profit-Prediction
   - Polynomial Linear Regression.
   - Support Vector Machine.
   - Decision Tree Regression.
   - Random Forest Regression.
   
+  Please see the below for learning purposes:
+  
+  https://github.com/MohitGoel92/HR-Salary-Justification
+  https://github.com/MohitGoel92/Wine-Classification-Analysis
+  
 - Clustering: Finding patterns in data such as customer segmentation.
   - K-Means Clustering.
   - Hierarchical Clustering.
+
+Please see the below for learning purposes:
+
+https://github.com/MohitGoel92/Customer-Marketing-Segmentation
